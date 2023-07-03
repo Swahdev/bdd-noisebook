@@ -1,0 +1,266 @@
+nom_sous_genre,id_genre
+Classic Rock,1
+Hard Rock,1
+Soft Rock,1
+Progressive Rock,1
+Pop Rock,2
+Indie Pop,2
+Art Pop,2
+Power Pop,2
+Smooth Jazz,3
+Fusion Jazz,3
+Cool Jazz,3
+Latin Jazz,3
+Old School Hip Hop,4
+Trap,4
+Gangsta Rap,4
+Boom Bap,4
+Delta Blues,5
+Chicago Blues,5
+Electric Blues,5
+Acoustic Country,6
+Outlaw Country,6
+Bluegrass,6
+Country Pop,6
+House,7
+Techno,7
+Trance,7
+Electro Swing,7
+Baroque Classical,8
+Romantic Classical,8
+Minimalism,8
+Contemporary Classical,8
+Roots Reggae,9
+Dub,9
+Dancehall,9
+Reggae Fusion,9
+Contemporary R&B,10
+Neo Soul,10
+Trap Soul,10
+Motown,10
+Funk Rock,11
+Disco Funk,11
+P-Funk,11
+Fusion,11
+Thrash Metal,12
+Death Metal,12
+Black Metal,12
+Glam Metal,12
+Neo Soul,13
+Southern Soul,13
+Nu Soul,13
+Blue-eyed Soul,13
+Contemporary Folk,14
+Indie Folk,14
+Americana,14
+Singer-Songwriter,14
+Punk Rock,15
+Pop Punk,15
+Hardcore Punk,15
+Post-Punk,15
+Alternative Rock,16
+Grunge,16
+Britpop,16
+Indie Rock,16
+Ska Punk,17
+2 Tone,17
+Third Wave Ska,17
+Reggae Rock,17
+Disco,19
+Nu-disco,19
+Italo Disco,19
+Space Disco,19
+West Coast Rap,20
+East Coast Rap,20
+Trap Rap,20
+Conscious Rap,20
+Southern Gospel,21
+Black Gospel,21
+Contemporary Gospel,21
+Traditional Gospel,21
+Detroit Techno,22
+Acid Techno,22
+Hard Techno,22
+Minimal Techno,22
+Deep House,23
+Tropical House,23
+Tech House,23
+Progressive House,23
+Brostep,24
+Liquid Dubstep,24
+Riddim,24
+Melodic Dubstep,24
+Reggaeton Pop,28
+Dembow,28
+Latin Trap,28
+Reggaeton Romántico,28
+Flamenco Pop,29
+Flamenco Nuevo,29
+Rumba,29
+Bulería,29
+Bossa Nova,30
+Samba,31
+Pagode,31
+Forró,31
+Steelpan,32
+Soca,32
+Zouk,32
+Power Ballad,33
+Love Song,33
+Sadcore,33
+Epic,33
+Operatic Pop,34
+Barbershop,34
+Choral,34
+A Cappella,34
+Alternative Metal,37
+Industrial Metal,37
+Groove Metal,37
+Nu-Metal,37
+Chillout,38
+Lounge,38
+Space Ambient,38
+Meditation,38
+New Age,39
+Ambient Pop,39
+Ambient House,39
+Ambient Dub,39
+Swing,40
+Big Band,40
+Gypsy Jazz,40
+Swing Revival,40
+Heavy Metal,41
+Power Metal,41
+Symphonic Metal,41
+Gothic Metal,41
+Psychedelic Rock,42
+Neo-Psychedelia,42
+Space Rock,42
+Stoner Rock,42
+Experimental Rock,43
+Avant-Garde,43
+Math Rock,43
+Post-Rock,43
+Worldbeat,44
+Tropical,44
+African,44
+Asian,44
+Irish Folk,45
+Scottish Folk,45
+Breton Folk,45
+Celtic Fusion,45
+Funk Metal,46
+Alternative Metal,46
+Rap Metal,46
+Industrial Rock,46
+Thrash Metal,48
+Groove Metal,48
+Melodic Metal,48
+Blackened Thrash Metal,48
+Garage Rock,49
+Garage Punk,49
+Surf Rock,62
+Instrumental Surf,62
+Surf Punk,62
+Surf Pop,62
+Electronic Rock,63
+Indietronica,63
+Synthwave,63
+Industrial Rock,63
+Post-Rock,64
+Post-Metal,64
+Post-Punk Revival,64
+Post-Hardcore,64
+Electro Swing,65
+J-Pop,66
+J-Rock,66
+Visual Kei,66
+Idol Pop,66
+K-Pop,67
+K-Rock,67
+K-Hip Hop,67
+K-Indie,67
+Ambient House,68
+Progressive House,68
+Deep House,68
+Tech House,68
+Gothic Rock,70
+Darkwave,70
+Industrial,70
+Symphonic Gothic Metal,70
+Ska Punk,18
+2 Tone,18
+Third Wave Ska,18
+Reggae Rock,18
+Dancehall,25
+Reggaeton,25
+Dub,25
+Reggae Fusion,25
+Latin,26
+Salsa,26
+Bachata,26
+Cumbia,26
+Reggaeton,27
+Reggaeton Pop,27
+Dembow,27
+Trap Latino,27
+Funk Rock,47
+Disco Funk,47
+P-Funk,47
+Fusion,47
+Progressive Rock,50
+Art Rock,50
+Symphonic Prog,50
+Neo-Prog,50
+Post-Punk,51
+Gothic Rock,51
+Darkwave,51
+Coldwave,51
+Britpop,52
+Britrock,52
+Indie Pop,52
+Madchester,52
+Acoustic,53
+Indie Folk,53
+Folk Rock,53
+Folk Pop,53
+Shoegaze,54
+Dream Pop,54
+Noise Pop,54
+Nu-Gaze,54
+Industrial,55
+EBM,55
+Aggrotech,55
+Industrial Metal,55
+Trip Hop,56
+Downtempo,56
+Chillstep,56
+Nu-Jazz,56
+Drum and Bass,57
+Liquid Funk,57
+Jungle,57
+Neurofunk,57
+Breakbeat,58
+Big Beat,58
+Broken Beat,58
+Progressive Breaks,58
+Nu-Metal,59
+Rap Metal,59
+Nu-Metalcore,59
+Industrial Metal,59
+Punk Rock,60
+Pop Punk,60
+Skate Punk,60
+Melodic Hardcore,60
+Pop Rock,61
+Power Pop,61
+Indie Pop,61
+Alternative Rock,61
+Ambient House,69
+Progressive House,69
+Deep House,69
+Tech House,69
+Gothic Rock,69
+Darkwave,69
+Industrial,69
+Symphonic Gothic Metal,69
